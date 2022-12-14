@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CocoaAsyncSocket",
+        "repositoryURL": "https://github.com/robbiehanson/CocoaAsyncSocket.git",
+        "state": {
+          "branch": null,
+          "revision": "dbdc00669c1ced63b27c3c5f052ee4d28f10150c",
+          "version": "7.6.5"
+        }
+      },
+      {
+        "package": "CocoaLumberjack",
+        "repositoryURL": "https://github.com/CocoaLumberjack/CocoaLumberjack.git",
+        "state": {
+          "branch": null,
+          "revision": "0188d31089b5881a269e01777be74c7316924346",
+          "version": "3.8.0"
+        }
+      },
+      {
+        "package": "KissXML",
+        "repositoryURL": "https://github.com/robbiehanson/KissXML.git",
+        "state": {
+          "branch": null,
+          "revision": "990cdef080213b5a3f0d9709b845d553bd3ddb97",
+          "version": "5.3.3"
+        }
+      },
+      {
+        "package": "libidn",
+        "repositoryURL": "https://github.com/chrisballinger/libidn-framework.git",
+        "state": {
+          "branch": null,
+          "revision": "fc2700ce83a279ac121aa9f59eedacfadd24ab5b",
+          "version": "1.35.1"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "6fe203dc33195667ce1759bf0182975e4653ba1c",
+          "version": "1.4.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
